@@ -1,0 +1,6 @@
+{
+  "name": "Aura Store - Tienda Online & Pedidos WhatsApp",
+  "description": "Tienda online moderna y responsiva estilo Tiendanube con catálogo editable, carrito interactivo y finalización de compra directa por WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
